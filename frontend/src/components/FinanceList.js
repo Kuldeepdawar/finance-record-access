@@ -7,7 +7,7 @@ import {
 import FinanceForm from "./FinanceForm"; // Assuming you have a FinanceForm component
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import Typography from "@mui/material/Typography";
+import Typography from "@mu/material/Typography";
 import Modal from "@mui/material/Modal";
 import { styled } from "@mui/material/styles";
 import Table from "@mui/material/Table";
