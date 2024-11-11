@@ -1,5 +1,5 @@
 // Single finance item component
-import React from "react";
+//import React from "react";
 import { deleteFinance } from "../components/services/api";
 
 const FinanceItem = ({ finance }) => {
